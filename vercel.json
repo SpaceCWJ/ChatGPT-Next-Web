@@ -17,6 +17,8 @@
                 {
                     "key": "Host",
                     "value": "$http_host"
+					
+					
                 }
             ]
         }
